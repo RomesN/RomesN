@@ -1,16 +1,15 @@
-### Hi there 👋
+# Roman Nemeth
 
-<!--
-**RomesN/RomesN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roman, I'm a fresh alumni of Green Fox Academy. I really enjoy learning languages and frameworks. I'm specializing in full-stack. Within third module of the course I worked on taam full stack project (JavaScript, Express.js, Node.js, React, TypeScript) whose repo is private, but the final presentation can be found [here](https://youtu.be/TYvwSEom6s8).
 
-Here are some ideas to get you started:
+## Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   ⚛️ React
+-   🍃 Spring Boot
+-   💻 JS, Java, HTML, CSS
+
+## Others
+
+Codewars: https://www.codewars.com/users/RomesN
+
+Hackerrank: https://www.hackerrank.com/romannemeth1
