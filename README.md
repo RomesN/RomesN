@@ -2,7 +2,7 @@
 
 I'm front-end developer currently working at [ABRA](https://www.abra.eu/flexi/).
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,scss,nodejs,webpack,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,nodejs,webpack,babel)](https://skillicons.dev)
 
 Some backend technologies are not strange to me either since I am a graduate of Green Fox Academy boot camp, where we studied Java, Spring Boot, or I worked on team full stack project ([final presentation here](https://youtu.be/TYvwSEom6s8)).
 
